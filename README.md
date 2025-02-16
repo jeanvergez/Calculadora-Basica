@@ -20,5 +20,4 @@ Esta es una aplicación de calculadora básica desarrollada en JavaScript. Permi
 - Validaciones adicionales para asegurarse de que los números ingresados sean válidos.
 - Mejora en la experiencia del usuario con mensajes claros y estilos en la consola.
 
-¡Espero que este plan te sea útil para desarrollar tu calculadora! Si tienes alguna pregunta o necesitas más ayuda, estaré encantado de asistirte. 🚀
-```
+
